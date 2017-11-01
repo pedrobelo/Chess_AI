@@ -1,0 +1,2 @@
+#gaussion
+var_num = 2

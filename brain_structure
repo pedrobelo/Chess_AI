@@ -1,0 +1,9 @@
+bugs:
+
+verify all divisions to prevent from dividing by 0
+verify stalemate and dra
+
+
+things to add:
+add a limit of moves so the game doesnt go indefinatly
+

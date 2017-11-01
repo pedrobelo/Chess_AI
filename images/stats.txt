@@ -1,0 +1,16 @@
+#This file includes all the specifications that chess_ai
+#will be following. For instance, the max population will
+#be defined here.
+#Only change the values between '<' and '>' because
+#otherwise the program will not work properly.
+
+--> Max_population: <>
+
+--> Max_number_of_populations: <>
+
+--> Chance_to_mutate_weight: <>
+
+--> Chance_to_add_neuron: <>
+
+--> Chance_to_add_connection: <>
+
